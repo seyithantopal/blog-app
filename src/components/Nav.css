@@ -1,0 +1,25 @@
+@font-face { font-family: Roboto-Thin; src: url('/fonts/Roboto-Thin.ttf'); }
+@font-face { font-family: Roboto-Light; src: url('/fonts/Roboto-Light.ttf'); }
+@font-face { font-family: Roboto-Regular; src: url('/fonts/Roboto-Regular.ttf'); }
+@font-face { font-family: Roboto-Medium; src: url('/fonts/Roboto-Medium.ttf'); }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f7f8fa;
+}
+
+.nav-title {
+    color: #ffffff;
+    font: 34px Roboto-Regular;
+}
+
+.header-navbar {
+    background-color: #4747d9;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+.footer-navbar {
+    background-color: #4747d9;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.bottom-logo {
+    font: 21px Roboto-Light;
+    color: #fff;
+}
